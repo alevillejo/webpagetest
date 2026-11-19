@@ -1,0 +1,226 @@
+{
+  "groups": [
+    {
+      "id": "discipline",
+      "label": {
+        "es": "Disciplina",
+        "en": "Discipline"
+      }
+    },
+    {
+      "id": "format",
+      "label": {
+        "es": "Formato",
+        "en": "Format"
+      }
+    },
+    {
+      "id": "context",
+      "label": {
+        "es": "Contexto",
+        "en": "Context"
+      }
+    },
+    {
+      "id": "recognition",
+      "label": {
+        "es": "Reconocimiento",
+        "en": "Recognition"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": "audio",
+      "group": "discipline",
+      "label": {
+        "es": "Audio",
+        "en": "Audio"
+      }
+    },
+    {
+      "id": "music",
+      "group": "discipline",
+      "label": {
+        "es": "Música",
+        "en": "Music"
+      }
+    },
+    {
+      "id": "sound-art",
+      "group": "discipline",
+      "label": {
+        "es": "Arte sonoro",
+        "en": "Sound Art"
+      }
+    },
+    {
+      "id": "audiovisual",
+      "group": "discipline",
+      "label": {
+        "es": "Audiovisual",
+        "en": "Audiovisual"
+      }
+    },
+    {
+      "id": "interactive",
+      "group": "discipline",
+      "label": {
+        "es": "Interactivo",
+        "en": "Interactive"
+      }
+    },
+    {
+      "id": "data",
+      "group": "discipline",
+      "label": {
+        "es": "Datos",
+        "en": "Data"
+      }
+    },
+    {
+      "id": "technology",
+      "group": "discipline",
+      "label": {
+        "es": "Tecnología",
+        "en": "Technology"
+      }
+    },
+    {
+      "id": "installation",
+      "group": "format",
+      "label": {
+        "es": "Instalación",
+        "en": "Installation"
+      }
+    },
+    {
+      "id": "exhibition",
+      "group": "format",
+      "label": {
+        "es": "Exposición",
+        "en": "Exhibition"
+      }
+    },
+    {
+      "id": "concert",
+      "group": "format",
+      "label": {
+        "es": "Concierto",
+        "en": "Concert"
+      }
+    },
+    {
+      "id": "performance",
+      "group": "format",
+      "label": {
+        "es": "Performance",
+        "en": "Performance"
+      }
+    },
+    {
+      "id": "publication",
+      "group": "format",
+      "label": {
+        "es": "Publicación",
+        "en": "Publication"
+      }
+    },
+    {
+      "id": "intervention",
+      "group": "format",
+      "label": {
+        "es": "Intervención",
+        "en": "Intervention"
+      }
+    },
+    {
+      "id": "digital-platform",
+      "group": "format",
+      "label": {
+        "es": "Plataforma digital",
+        "en": "Digital Platform"
+      }
+    },
+    {
+      "id": "research",
+      "group": "context",
+      "label": {
+        "es": "Investigación",
+        "en": "Research"
+      }
+    },
+    {
+      "id": "collaboration",
+      "group": "context",
+      "label": {
+        "es": "Colaboración",
+        "en": "Collaboration"
+      }
+    },
+    {
+      "id": "commission",
+      "group": "context",
+      "label": {
+        "es": "Proyecto comisionado",
+        "en": "Commissioned Project"
+      }
+    },
+    {
+      "id": "residency",
+      "group": "context",
+      "label": {
+        "es": "Residencia",
+        "en": "Residency"
+      }
+    },
+    {
+      "id": "curatorial",
+      "group": "context",
+      "label": {
+        "es": "Proyecto curatorial",
+        "en": "Curatorial Project"
+      }
+    },
+    {
+      "id": "laboratory",
+      "group": "context",
+      "label": {
+        "es": "Laboratorio",
+        "en": "Laboratory"
+      }
+    },
+    {
+      "id": "award",
+      "group": "recognition",
+      "label": {
+        "es": "Premio",
+        "en": "Award"
+      }
+    },
+    {
+      "id": "honourable-mention",
+      "group": "recognition",
+      "label": {
+        "es": "Mención honorífica",
+        "en": "Honourable Mention"
+      }
+    },
+    {
+      "id": "grant",
+      "group": "recognition",
+      "label": {
+        "es": "Beca",
+        "en": "Grant"
+      }
+    },
+    {
+      "id": "nomination",
+      "group": "recognition",
+      "label": {
+        "es": "Nominación",
+        "en": "Nomination"
+      }
+    }
+  ]
+}

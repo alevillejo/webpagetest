@@ -1,0 +1,781 @@
+{
+  "projects": [
+    {
+      "slug": "a-tale-of-two-seeds",
+      "placeholder": false,
+      "status": "published",
+      "featured": true,
+      "title": {
+        "es": "A Tale of Two Seeds: Sound and Silence in Latin America's Andean Plains",
+        "en": "A Tale of Two Seeds: Sound and Silence in Latin America's Andean Plains"
+      },
+      "year": 2023,
+      "type": "collaborative-work",
+      "shortDescription": {
+        "es": "Instalación sonora que examina los suelos agrícolas de las llanuras andinas.",
+        "en": "A sound installation examining agricultural soils in the Andean plains."
+      },
+      "description": {
+        "es": "Instalación sonora que utiliza grabaciones de campo, recolección de datos y sonificación para examinar los suelos agrícolas de las llanuras andinas.",
+        "en": "A sound installation using field recordings, data collection, and sonification to examine agricultural soils in the Andean plains."
+      },
+      "medium": {
+        "es": "Instalación sonora / investigación",
+        "en": "Sound installation / research"
+      },
+      "authorship": "collaborative",
+      "role": {
+        "es": "Concepto, investigación, diseño sonoro, desarrollo técnico y producción.",
+        "en": "Concept, research, sound design, technical development, and production."
+      },
+      "institutions": [
+        "Prix Ars Electronica"
+      ],
+      "collaborators": [
+        "Atractor Estudio",
+        "Semántica Productions"
+      ],
+      "credits": [
+        {
+          "name": "Atractor Estudio",
+          "contribution": {
+            "es": "Colaboración",
+            "en": "Collaboration"
+          }
+        },
+        {
+          "name": "Semántica Productions",
+          "contribution": {
+            "es": "Colaboración",
+            "en": "Collaboration"
+          }
+        },
+        {
+          "name": "Prix Ars Electronica",
+          "contribution": {
+            "es": "Golden Nica · Digital Musics & Sound Art, 2023",
+            "en": "Golden Nica · Digital Musics & Sound Art, 2023"
+          }
+        }
+      ],
+      "tags": [
+        "sound-art",
+        "audio",
+        "data",
+        "installation",
+        "research",
+        "collaboration",
+        "award"
+      ],
+      "gallery": [
+        {
+          "src": "assets/images/two-seeds-placeholder.webp",
+          "alt": {
+            "es": "Imagen provisional: esquema de una cuadrícula de semillas y una onda sonora; no representa la instalación real.",
+            "en": "Placeholder: schematic seed grid and sound wave; not an image of the actual installation."
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación de la instalación pendiente",
+            "en": "Placeholder image · Installation documentation pending"
+          },
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "alt": {
+            "es": "Imagen provisional 2",
+            "en": "Placeholder image 2"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "alt": {
+            "es": "Imagen provisional 3",
+            "en": "Placeholder image 3"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "aqz-KE-bpKQ",
+          "title": {
+            "es": "Video de demostración (provisional, no pertenece al proyecto)",
+            "en": "Demonstration video (placeholder, not part of the project)"
+          }
+        }
+      ],
+      "audio": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Example.ogg",
+          "mimeType": "audio/ogg",
+          "title": {
+            "es": "Audio de demostración (provisional)",
+            "en": "Demonstration audio (placeholder)"
+          },
+          "description": {
+            "es": "Sustituir por la URL pública del archivo en Cloudflare R2.",
+            "en": "Replace with the public Cloudflare R2 file URL."
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "slug": "the-view-from-nowhere",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "The View from Nowhere",
+        "en": "The View from Nowhere"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "audiovisual",
+        "installation",
+        "research"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "supralunar",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Supralunar",
+        "en": "Supralunar"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "interactive",
+        "technology",
+        "installation"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "ave-del-paraiso",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Ave del Paraíso",
+        "en": "Ave del Paraíso"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "sound-art",
+        "intervention"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "reflectofago",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Reflectófago",
+        "en": "Reflectófago"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "interactive",
+        "exhibition"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "pendulo-doble",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Péndulo Doble",
+        "en": "Péndulo Doble"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "technology",
+        "data",
+        "installation"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "vichaca",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Vicachá, el resplandor del agua en la penumbra",
+        "en": "Vicachá, el resplandor del agua en la penumbra"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "audiovisual",
+        "sound-art",
+        "commission"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "anomalous-transmission",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Anomalous Transmission",
+        "en": "Anomalous Transmission"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "audio",
+        "performance",
+        "laboratory"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "elektromugre",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Elektromugre",
+        "en": "Elektromugre"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "music",
+        "concert",
+        "collaboration"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "radio-parasites",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Radio Parasites",
+        "en": "Radio Parasites"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "audio",
+        "digital-platform",
+        "residency"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "hay-futuro-si-hay-verdad",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Hay Futuro si hay Verdad",
+        "en": "Hay Futuro si hay Verdad"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "audiovisual",
+        "exhibition",
+        "commission"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "swarm",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "Swarm",
+        "en": "Swarm"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "interactive",
+        "data",
+        "installation"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    },
+    {
+      "slug": "e-detritus",
+      "placeholder": true,
+      "status": "published",
+      "featured": false,
+      "title": {
+        "es": "e-Detritus",
+        "en": "e-Detritus"
+      },
+      "year": null,
+      "type": "placeholder",
+      "shortDescription": {
+        "es": "Descripción provisional — información del proyecto pendiente.",
+        "en": "Placeholder description — project information pending."
+      },
+      "description": {
+        "es": "Texto provisional. La descripción, fechas, autoría y créditos de este proyecto aún no se han verificado.",
+        "en": "Placeholder text. This project's description, dates, authorship and credits have not yet been verified."
+      },
+      "medium": {
+        "es": "Medio pendiente",
+        "en": "Medium pending"
+      },
+      "authorship": "unspecified",
+      "role": {
+        "es": "Pendiente",
+        "en": "Pending"
+      },
+      "institutions": [],
+      "collaborators": [],
+      "credits": [],
+      "tags": [
+        "technology",
+        "publication",
+        "curatorial"
+      ],
+      "gallery": [
+        {
+          "alt": {
+            "es": "Imagen provisional 1",
+            "en": "Placeholder image 1"
+          },
+          "caption": {
+            "es": "Imagen provisional · Documentación pendiente",
+            "en": "Placeholder image · Documentation pending"
+          },
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "videos": [],
+      "audio": [],
+      "links": []
+    }
+  ]
+}

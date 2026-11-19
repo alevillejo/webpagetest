@@ -1,0 +1,90 @@
+{
+  "portrait": {
+    "alt": {
+      "es": "Retrato provisional de Alejandro Villegas",
+      "en": "Placeholder portrait of Alejandro Villegas"
+    }
+  },
+  "biography": {
+    "es": "Alejandro Villegas es artista y tecnólogo creativo. Su práctica trabaja en la intersección entre arte, tecnología, sonido, datos, territorios, instalaciones inmersivas y experiencias interactivas, mediante dispositivos interactivos propios, computación física, sistemas audiovisuales, narrativas experimentales y proyectos guiados por la investigación. Es cofundador de Atractor Estudio, estudio creativo con sede en Bogotá.",
+    "en": "Alejandro Villegas is an artist and creative technologist. His practice works at the intersection of art, technology, sound, data, territories, immersive installations and interactive experiences, through custom interactive devices, physical computing, audiovisual systems, experimental narratives and research-led projects. He is co-founder of Atractor Estudio, a Bogotá-based creative studio."
+  },
+  "contact": [
+    {
+      "label": {
+        "es": "Correo",
+        "en": "Email"
+      },
+      "value": "correo@pendiente.example",
+      "href": "mailto:correo@pendiente.example",
+      "placeholder": true
+    },
+    {
+      "label": {
+        "es": "Ubicación",
+        "en": "Location"
+      },
+      "value": "Pendiente / Pending",
+      "placeholder": true
+    }
+  ],
+  "experience": [
+    {
+      "period": "—",
+      "title": {
+        "es": "Cofundador, Atractor Estudio",
+        "en": "Co-founder, Atractor Estudio"
+      },
+      "detail": {
+        "es": "Bogotá. Fechas pendientes.",
+        "en": "Bogotá. Dates pending."
+      }
+    }
+  ],
+  "institutions": [
+    "GIZ",
+    "Comisión de la Verdad de Colombia",
+    "Unión Europea en Colombia",
+    "Banco de la República",
+    "Pro Helvetia",
+    "ONU Mujeres",
+    "Museo Nacional de Colombia"
+  ],
+  "exhibitions": [
+    {
+      "period": "—",
+      "title": {
+        "es": "Exposiciones y presentaciones pendientes",
+        "en": "Exhibitions and presentations pending"
+      },
+      "detail": {
+        "es": "Contenido provisional.",
+        "en": "Placeholder content."
+      },
+      "placeholder": true
+    }
+  ],
+  "awards": [
+    {
+      "period": "2023",
+      "title": {
+        "es": "Golden Nica, Digital Musics & Sound Art — Prix Ars Electronica",
+        "en": "Golden Nica, Digital Musics & Sound Art — Prix Ars Electronica"
+      },
+      "detail": {
+        "es": "A Tale of Two Seeds: Sound and Silence in Latin America's Andean Plains",
+        "en": "A Tale of Two Seeds: Sound and Silence in Latin America's Andean Plains"
+      }
+    }
+  ],
+  "selectedWorks": [
+    "a-tale-of-two-seeds",
+    "supralunar",
+    "elektromugre",
+    "radio-parasites"
+  ],
+  "pdf": {
+    "es": null,
+    "en": null
+  }
+}
